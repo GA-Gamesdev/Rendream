@@ -1,6 +1,6 @@
 # Rendream
 A js platformer engine
 
-### whats it for?
+### coming soon
 
-Rendream is a platformer engine made in js thats, extreamly easy to use, 
+
